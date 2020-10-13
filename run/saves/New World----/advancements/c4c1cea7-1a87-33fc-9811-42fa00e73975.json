@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "desert_hills": "2020-08-13 20:37:21 -0500",
+      "plains": "2020-08-13 20:37:13 -0500",
+      "extreme_hills": "2020-08-13 20:37:25 -0500",
+      "roofed_forest": "2020-08-13 20:38:34 -0500",
+      "desert": "2020-08-13 20:37:22 -0500"
+    },
+    "done": false
+  }
+}

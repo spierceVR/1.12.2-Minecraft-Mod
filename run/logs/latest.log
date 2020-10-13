@@ -1,0 +1,49 @@
+[10:58:55] [main/INFO]: Setting user: Player276
+[10:59:06] [main/WARN]: Skipping bad option: lastServer:
+[10:59:06] [main/INFO]: LWJGL Version: 2.9.4
+[10:59:13] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Minecraft By Example
+[10:59:17] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[10:59:17] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[10:59:17] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[10:59:20] [Thread-5/INFO]: OpenAL initialized.
+[10:59:20] [Sound Library Loader/INFO]: Sound engine started
+[10:59:23] [main/INFO]: Created: 1024x512 textures-atlas
+[10:59:26] [main/WARN]: Skipping bad option: lastServer:
+[10:59:26] [main/INFO]: Narrator library for x64 successfully loaded
+[10:59:30] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[10:59:32] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[10:59:32] [Server thread/INFO]: Generating keypair
+[10:59:33] [Server thread/INFO]: Loaded 488 advancements
+[10:59:33] [Server thread/INFO]: Preparing start region for level 0
+[10:59:34] [Server thread/INFO]: Preparing spawn area: 37%
+[10:59:34] [Server thread/INFO]: Changing view distance to 12, from 10
+[10:59:36] [Server thread/INFO]: Player276[local:E:86e0da23] logged in with entity id 173 at (-55.48343864740217, 95.0, -471.2418041887737)
+[10:59:36] [Server thread/INFO]: Player276 joined the game
+[10:59:38] [Server thread/INFO]: Saving and pausing game...
+[10:59:39] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[10:59:39] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[10:59:39] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[10:59:39] [Server thread/INFO]: Saving chunks for level 'New World'/minecraftbyexample
+[10:59:55] [Server thread/INFO]: Saving and pausing game...
+[10:59:55] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[10:59:55] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[10:59:55] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[10:59:55] [Server thread/INFO]: Saving chunks for level 'New World'/minecraftbyexample
+[11:01:13] [Server thread/INFO]: Saving and pausing game...
+[11:01:13] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[11:01:13] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[11:01:13] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[11:01:13] [Server thread/INFO]: Saving chunks for level 'New World'/minecraftbyexample
+[11:13:50] [Server thread/INFO]: Stopping server
+[11:13:50] [Server thread/INFO]: Saving players
+[11:13:50] [Server thread/INFO]: Player276 lost connection: Disconnected
+[11:13:50] [Server thread/INFO]: Player276 left the game
+[11:13:50] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[11:13:50] [Server thread/INFO]: Saving worlds
+[11:13:50] [Server thread/INFO]: Saving chunks for level 'New World'/overworld
+[11:13:50] [Server thread/INFO]: Saving chunks for level 'New World'/the_nether
+[11:13:50] [Server thread/INFO]: Saving chunks for level 'New World'/the_end
+[11:13:50] [Server thread/INFO]: Saving chunks for level 'New World'/minecraftbyexample
+[11:13:52] [main/INFO]: Stopping!
+[11:13:52] [main/INFO]: SoundSystem shutting down...
+[11:13:52] [main/WARN]: Author: Paul Lamb, www.paulscode.com

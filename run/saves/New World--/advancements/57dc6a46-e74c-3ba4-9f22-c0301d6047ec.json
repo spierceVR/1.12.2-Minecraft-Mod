@@ -1,0 +1,13 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2020-08-13 01:13:27 -0500",
+      "birch_forest": "2020-08-13 01:15:20 -0500",
+      "extreme_hills_with_trees": "2020-08-13 01:14:42 -0500",
+      "forest_hills": "2020-08-13 01:13:21 -0500",
+      "extreme_hills": "2020-08-13 01:14:09 -0500",
+      "river": "2020-08-13 01:14:47 -0500"
+    },
+    "done": false
+  }
+}

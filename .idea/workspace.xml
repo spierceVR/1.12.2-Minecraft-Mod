@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dab17303-803b-4e90-ad3d-0074ed6ba06a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MinecraftByExample-master" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MinecraftByExample-master" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MinecraftByExample-master" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MinecraftByExample-master" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="forgegradle" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe30_inventory_basic/StartupClientOnly.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe30_inventory_basic/StartupCommon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/CommonProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/dimensions/TestWorldProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe30_inventory_basic/TileEntityInventoryBasic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe30_inventory_basic/ContainerBasic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/ModDimensions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="15" column="97" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="106" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe30_inventory_basic/GuiHandlerMBE30.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe30_inventory_basic/GuiInventoryBasic.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/assets/minecraftbyexample/textures/gui/mbe30_inventory_basic_bg.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>harvest</find>
+      <find>setHarvest</find>
+      <find>RenderPlayer</find>
+      <find>armor</find>
+      <find>STONE</find>
+      <find>getTerrainType</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\solom\.gradle\caches\minecraft\net\minecraftforge\forge\1.12.2-14.23.0.2491\snapshot\20170624\forgeSrc-1.12.2-14.23.0.2491.jar!\net\minecraft</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/my_block/BlockMy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/block_my/StartupClientOnly.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/minecraftbyexample/blockstates/block_my_registry_name.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/minecraftbyexample/models/block/block_my_model.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/minecraftbyexample/lang/en_US.lang" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/block_my/StartupCommon.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/minecraftbyexample/models/item/block_my.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/minecraftbyexample/recipes/mbe35_recipe_painting.json" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/my_item/MyItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/my_tool/StartupCommon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/my_tool/StartupClientOnly.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/minecraftbyexample/models/item/my_tool.json" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/my_tool/MyTool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/armor/my_chestplate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/armor/MyChestplate.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/minecraftbyexample/models/item/my_chestplate.json" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/armor/MyHelmet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/armor/MyLeggings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/armor/StartupClientOnly.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/armor/Myboots.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/armor/MyBoots.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/armor/StartupCommon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/my_entity/RenderMyEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/my_entity/render/RenderMyEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/ModEntities.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/my_entity/StartupClientOnly.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/ClientOnlyProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/my_entity/MyEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/my_entity/StartupCommon.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/minecraftbyexample/loot_tables/entities/poggers_zombie.json" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/dimensions/TestChunkGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/dimensions/ModDimensions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/ModDimensions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/commands/TeleportCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/commands/CustomTeleporter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe09_ore_spawning/StartupCommon.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/assets/minecraftbyexample/recipes/my_tool_recipe.json" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe35_recipes/StartupCommon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/BiomeInit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/MinecraftByExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/dimensions/BiomeCopper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/world/types/CopperWorldType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/util/interfaces/IStructure.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/world/types/gen/WorldGenStructure.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/world/types/gen/WorldGenCustomStructures.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe09_ore_spawning/OreSpawner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/dimensions/NormalTerrainGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/block_my/BlockMy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/world/types/WorldTypeCopper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/CommonProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/minecraftbyexample/dimensions/TestWorldProvider.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="273" />
+    <option name="y" value="219" />
+    <option name="width" value="2331" />
+    <option name="height" value="1500" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="run" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraftbyexample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraftbyexample" type="462c0819:PsiDirectoryNode" />
+              <item name="armor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraftbyexample" type="462c0819:PsiDirectoryNode" />
+              <item name="block_my" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraftbyexample" type="462c0819:PsiDirectoryNode" />
+              <item name="dimensions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraftbyexample" type="462c0819:PsiDirectoryNode" />
+              <item name="mbe09_ore_spawning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraftbyexample" type="462c0819:PsiDirectoryNode" />
+              <item name="mbe30_inventory_basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraftbyexample" type="462c0819:PsiDirectoryNode" />
+              <item name="mbe31_inventory_furnace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraftbyexample" type="462c0819:PsiDirectoryNode" />
+              <item name="my_tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraftbyexample" type="462c0819:PsiDirectoryNode" />
+              <item name="interfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraftbyexample" type="462c0819:PsiDirectoryNode" />
+              <item name="types" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraftbyexample" type="462c0819:PsiDirectoryNode" />
+              <item name="types" type="462c0819:PsiDirectoryNode" />
+              <item name="gen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraftbyexample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftByExample-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraftbyexample" type="462c0819:PsiDirectoryNode" />
+              <item name="textures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="forgeSrc-1.12.2-14.23.0.2491.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="forgeSrc-1.12.2-14.23.0.2491.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MinecraftByExample-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="forgeSrc-1.12.2-14.23.0.2491.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="net" type="462c0819:PsiDirectoryNode" />
+              <item name="minecraftforge" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/run/mods" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\IntelliJ Projects\modding\MinecraftByExample-master\src\main\resources\assets\minecraftbyexample" />
+      <recent name="A:\IntelliJ Projects\modding\MinecraftByExample-master\src\main\resources\assets\minecraftbyexample\textures\items" />
+      <recent name="A:\IntelliJ Projects\modding\MinecraftByExample-master\src\main\java\minecraftbyexample" />
+      <recent name="A:\IntelliJ Projects\modding\MinecraftByExample-master\gradle" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\IntelliJ Projects\modding\MinecraftByExample-master\run\mods" />
+      <recent name="A:\IntelliJ Projects\modding\MinecraftByExample-master\src\main\resources\assets\minecraftbyexample\textures\entity" />
+      <recent name="A:\IntelliJ Projects\modding\MinecraftByExample-master\src\main\resources\assets\minecraftbyexample\textures\items" />
+      <recent name="A:\IntelliJ Projects\modding\MinecraftByExample-master\src\main\resources\assets\minecraftbyexample\textures\models\armor" />
+      <recent name="A:\IntelliJ Projects\modding\MinecraftByExample-master\src\main\resources\assets\minecraftbyexample\models\item" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="minecraftbyexample.armor" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="minecraftbyexample.dimensions" />
+      <recent name="minecraftbyexample" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.MinecraftByExample-master [runClient]">
+    <configuration name="MinecraftByExample-master [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MinecraftByExample-master [setupDecompWorkspace]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="setupDecompWorkspace" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MinecraftByExample-master [runClient]" />
+        <item itemvalue="Gradle.MinecraftByExample-master [setupDecompWorkspace]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dab17303-803b-4e90-ad3d-0074ed6ba06a" name="Default Changelist" comment="" />
+      <created>1596476117293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596476117293</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19204772" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32969603" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="2" weight="0.32969603" />
+      <window_info anchor="bottom" id="Log Analyzer" order="3" weight="0.32969603" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="SOQL Query" order="5" weight="0.32969603" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32969603" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.23460639" />
+      <window_info anchor="bottom" id="Run" order="9" weight="0.2954014" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.3998441" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32969603" />
+      <window_info active="true" anchor="bottom" id="Alibaba Cloud View" order="14" visible="true" weight="0.32969603" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.09502982" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="8" visible="true" weight="0.24970178" />
+      <window_info anchor="right" id="Alibaba ROS Templates" order="9" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="10" />
+      <window_info anchor="right" id="Alibaba Log Console" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18409543" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Alibaba Cloud Explorer" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32969603" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="2" weight="0.32969603" />
+      <window_info anchor="bottom" id="Log Analyzer" order="3" weight="0.32969603" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="SOQL Query" order="5" weight="0.32969603" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32969603" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.23460639" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.2954014" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.32969603" />
+      <window_info active="true" anchor="bottom" id="Alibaba Cloud View" order="14" visible="true" weight="0.32969603" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.09502982" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="8" visible="true" weight="0.24970178" />
+      <window_info anchor="right" id="Alibaba ROS Templates" order="9" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="10" />
+      <window_info anchor="right" id="Alibaba Log Console" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.json" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe09_ore_spawning/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/biome/BiomeProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe35_recipes/StartupCommon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="133" column="37" selection-start-line="133" selection-start-column="32" selection-end-line="133" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe09_ore_spawning/StartupCommon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe09_ore_spawning/OreSpawner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe09_ore_spawning/StartupClientOnly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraftforge/common/BiomeDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/biome/Biome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+          <folding>
+            <element signature="e#5592#5614#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/gen/ChunkGeneratorFlat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2788">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/gen/MapGenBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/gen/ChunkGeneratorOverworld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/gen/FlatLayerInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/block_my/BlockMy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/gen/IChunkGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/my_tool/MyTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/my_tool/StartupClientOnly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/gen/ChunkGeneratorSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/gen/ChunkProviderServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/gen/NoiseGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/gen/NoiseGeneratorImproved.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/gen/NoiseGeneratorOctaves.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/gen/ChunkGeneratorDebug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/my_tool/StartupCommon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraftforge/common/BiomeManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="201" column="30" selection-start-line="201" selection-start-column="30" selection-end-line="201" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/gen/layer/GenLayerBiome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2346">
+          <caret line="141" column="1" lean-forward="true" selection-start-line="141" selection-start-column="1" selection-end-line="141" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/dimensions/TestChunkGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="99" column="34" lean-forward="true" selection-start-line="99" selection-start-column="34" selection-end-line="99" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/dimensions/NormalTerrainGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2442">
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/dimensions/BiomeCopper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/WorldProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/client/multiplayer/WorldClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="74" column="18" lean-forward="true" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.12.2-14.23.0.2491/snapshot/20170624/forgeSrc-1.12.2-14.23.0.2491-sources.jar!/net/minecraft/world/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="113" column="33" lean-forward="true" selection-start-line="113" selection-start-column="33" selection-end-line="113" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/BiomeInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/DedicatedServerProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/GuiHandlerRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/MinecraftByExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="73" column="46" selection-start-line="73" selection-start-column="46" selection-end-line="73" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4688#4689#0" expanded="true" />
+            <element signature="e#4717#4718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/world/types/gen/WorldGenStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="39" column="58" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/util/interfaces/IStructure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/ClientOnlyProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/world/types/gen/WorldGenCustomStructures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/world/types/WorldTypeCopper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe30_inventory_basic/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe30_inventory_basic/StartupClientOnly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe30_inventory_basic/StartupCommon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/CommonProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe30_inventory_basic/TileEntityInventoryBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe30_inventory_basic/ContainerBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/ModDimensions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="97" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="106" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe30_inventory_basic/GuiHandlerMBE30.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/mbe30_inventory_basic/GuiInventoryBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/minecraftbyexample/textures/gui/mbe30_inventory_basic_bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/minecraftbyexample/dimensions/TestWorldProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
